@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "AseBank",
   description: "AseBank is a modern banking platform.",
   icons : {
-    icon : '/icons/log.svg'
+    icon : '/icons/ase_logo.png'
   }
 };
 
